@@ -13,6 +13,5 @@ double RungeKutta45(double x, double y, double h, double(*func)(double, double))
 }
 ```
 
-<video>
- <source src="https://github.com/LolaperezDS/ODE_Integrator/blob/master/work_example/initial.avi">
-</video>
+![image](https://github.com/LolaperezDS/ODE_Integrator/blob/master/work_example/initial.gif)
+![image](https://github.com/LolaperezDS/ODE_Integrator/blob/master/work_example/z6_const.gif)
