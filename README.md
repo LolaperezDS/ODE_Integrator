@@ -12,3 +12,7 @@ double RungeKutta45(double x, double y, double h, double(*func)(double, double))
     return Dy;
 }
 ```
+
+<video>
+ <source src="https://github.com/LolaperezDS/ODE_Integrator/blob/master/work_example/initial.avi">
+</video>
